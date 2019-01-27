@@ -1,0 +1,74 @@
+.header{
+	text-decoration: none;
+	position: relative;
+	text-align: left;
+	font-family: helvetica;
+	border: 1px solid #5CDB95;
+	background: #5CDB95;
+}
+
+.header a{
+	text-decoration:none;
+	color:#05386B;
+	text-shadow: 1px 1px #05386B;
+	margin-right: 10px;
+	padding: 5px;
+}
+
+.headerLinks{
+	border: 1px solid #05386B;
+	font-size: 25px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.about{
+	position: relative;
+	text-align: center;
+}
+.contact1{
+	clear: both;
+}
+
+.contact1 img{
+	float: left;
+	clear: both;
+}
+
+.contact img{
+	float: left;
+}
+
+.photos img{
+	display: inline-block;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.photo img{
+	display: block;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	overflow: auto;
+}
+
+body{
+	height: 95%;
+	position: relative;
+	margin: auto 1%;
+	border: 1px solid lightgray;
+	background: white;
+	overflow: auto;
+}
+
+html{
+	overflow: auto;
+	height: 100%;
+	background: darkgray;
+}
+
+#title{
+	font-size: 35px;
+	border: 1px solid black;
+	
+}
