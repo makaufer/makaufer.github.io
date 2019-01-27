@@ -22,6 +22,10 @@
 	padding-top: 10px;
 }
 
+.title{
+	font-size: 25px;
+	font-color: red;
+}
 .about{
 	position: relative;
 	text-align: center;
@@ -69,6 +73,6 @@ html{
 
 #title{
 	font-size: 35px;
-	border: 1px solid Red;
+	border: 1px solid black;
 	
 }
